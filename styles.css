@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(215, 188, 239);
+    color: rgb(16, 3, 29);
+}
+h1{
+    color: rgb(111, 0, 215);
+}
+h2{
+    text-align: center;
+    color:rgb(73, 22, 98);
+
+}
+ul{
+
+    text-align: center;
+}
+li {
+    display: inline-block;
+    border: 1px solid black;
+padding: 10px;
+background-color: transparent;
+margin-right: 10px;
+align-items: center;
+border-style: groove;
+}
+
+img {
+    border-radius: 50%;
+}
+a:link {
+    color: rgb(128, 0, 85);
+    background-color: rgb(236, 130, 239);
+    text-decoration: wavy;
+  }
+  
